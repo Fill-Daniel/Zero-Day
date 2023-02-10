@@ -1,2 +1,2 @@
 # Zero-Day
- Day one school project
+ This is my first repository as a full-stack engineer
